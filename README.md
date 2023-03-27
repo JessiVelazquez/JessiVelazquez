@@ -1,10 +1,9 @@
 <div id="header" align="center">
-  ### Hi, I'm Jessi 👋 
+  Hi, I'm Jessi. Welcome to my Github profile!
+  
+  Below are a few of my skills. Have a look around!
+  [![My Skills](https://skillicons.dev/icons?i=js,py,ts,vue,react,flask,nodejs,html,css,mongodb,mysql)](https://skillicons.dev)
 </div>
-
-Below are a few of my skills. Have a look around!
-
-[![My Skills](https://skillicons.dev/icons?i=js,py,ts,vue,react,flask,nodejs,html,css,mongodb,mysql)](https://skillicons.dev)
 
 <!--
 **JessiVelazquez/JessiVelazquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
