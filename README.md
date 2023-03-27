@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <h3>Hi, I'm Jessi 👋 </h3> 
   
+  Connect with me:
   <a href="https://www.linkedin.com/in/jessivelazquez/">
-    Connect: 
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
