@@ -6,6 +6,6 @@
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
-<!-- #### :hammer_and_wrench:   Languages and Tools :
+#### :hammer_and_wrench:   Languages and Tools :
 [![My Skills](https://skillicons.dev/icons?i=js,py,ts,vue,react,flask,nodejs,html,css,mongodb,mysql,aws,bootstrap,figma,gcp,git,graphql,heroku,materialui,postman,redux,regex,sass,sentry,tailwind,vite,vscode)](https://skillicons.dev)
- -->
+
