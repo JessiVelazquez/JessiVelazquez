@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,ts,vue,react,flask,nodejs,html,css,mongodb,mysql)](https://skillicons.dev)
 
 <!--
 **JessiVelazquez/JessiVelazquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
