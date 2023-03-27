@@ -1,6 +1,7 @@
 <div id="header" align="center">
   Hi, I'm Jessi 👋  
   
+  
   [![My Skills](https://skillicons.dev/icons?i=js,py,ts,vue,react,flask,nodejs,html,css,mongodb,mysql)](https://skillicons.dev)
 </div>
 
