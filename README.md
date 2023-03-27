@@ -5,9 +5,7 @@
 
 
 #### :hammer_and_wrench: Languages and Tools :
-<p>
-  [![My Skills](https://skillicons.dev/icons?i=js,py,ts,vue,react,flask,nodejs,html,css,mongodb,mysql)](https://skillicons.dev)
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,py,ts,vue,react,flask,nodejs,html,css,mongodb,mysql)](https://skillicons.dev)
 
 <!-- 
 <div id="header" align="center">
