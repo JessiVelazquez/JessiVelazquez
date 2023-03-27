@@ -7,5 +7,5 @@
 </a>
 
 #### :hammer_and_wrench:   Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=js,py,ts,vue,react,flask,nodejs,html,css,mongodb,mysql,aws,bootstrap,figma,gcp,git,graphql,heroku,materialui,postman,redux,regex,sass,sentry,tailwind,vite,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,ts,vue,react,flask,nodejs,html,css,mongodb,mysql,bootstrap,figma,gcp,git,graphql,postman,tailwind,vscode)](https://skillicons.dev)
 
