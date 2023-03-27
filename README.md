@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Hi, I'm Jessi 👋 </h1> 
+  <h3>Hi, I'm Jessi 👋 </h3> 
   
   
   [![My Skills](https://skillicons.dev/icons?i=js,py,ts,vue,react,flask,nodejs,html,css,mongodb,mysql)](https://skillicons.dev)
