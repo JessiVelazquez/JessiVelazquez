@@ -6,9 +6,3 @@
 
 #### :hammer_and_wrench: Languages and Tools :
 [![My Skills](https://skillicons.dev/icons?i=js,py,ts,vue,react,flask,nodejs,html,css,mongodb,mysql)](https://skillicons.dev)
-
-<!-- 
-<div id="header" align="center">
-  <h3>Hi, I'm Jessi 👋 </h3> 
-</div>
- -->
