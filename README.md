@@ -1,7 +1,5 @@
 <div id="header" align="center">
-  Hi, I'm Jessi. Welcome to my Github profile!
-  
-  Below are a few of my skills. Have a look around!
+  Hi, I'm Jessi 👋  
   
   [![My Skills](https://skillicons.dev/icons?i=js,py,ts,vue,react,flask,nodejs,html,css,mongodb,mysql)](https://skillicons.dev)
 </div>
