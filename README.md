@@ -1,5 +1,9 @@
 ### Hi, I'm Jessi 👋 
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 Below are a few of my skills. Have a look around!
 
 [![My Skills](https://skillicons.dev/icons?i=js,py,ts,vue,react,flask,nodejs,html,css,mongodb,mysql)](https://skillicons.dev)
