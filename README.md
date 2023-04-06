@@ -2,7 +2,7 @@
 
 #### Currently:
 
-- Diving back into the React/Node.js/Mongo stack with a personal project ('adventures' - see below) fter 2 years of professionally coding in Vue.js/Flask/MySQL.
+- Diving back into the React/Node.js/Mongo stack with a personal project ('adventures' - see below) after 2 years of professionally coding in Vue.js/Flask/MySQL.
 
 - Reading up on system design patterns.
 
