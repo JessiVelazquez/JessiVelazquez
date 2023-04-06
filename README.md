@@ -1,6 +1,6 @@
 ### :woman_technologist: Hi, I am Jessi!
 
-Currently:
+#### Currently:
 
 - Diving back into the React/Node.js/Mongo stack with a personal project after 2 years of professionally coding in Vue.js/Flask/MySQL.
 
