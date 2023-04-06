@@ -6,6 +6,8 @@
 
 - Reading up on system design patterns.
 
+- Looking for my next role!
+
 - Working on running a trail marathon.
 
 #### :incoming_envelope:   Connect with me :
